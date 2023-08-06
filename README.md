@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Lorelei.
 ### I'm interested in Web Development, AI, Game Dev, and more.
-I am currently an Sophomore Engineering student  at Texas A&M University with the intention of majoring in Computer Science. I work mostly with C++
+I am currently an Sophomore Engineering student  at Texas A&M University with the intention of majoring in Computer Science. 
+I work mostly with C++
 
 Skills: C++  / HTML / CSS / Python / JavaScript / Typescript
 
